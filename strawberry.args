@@ -1,0 +1,2 @@
+-c
+cxx#strawberry.cxxppflags = "-DFLAVOUR=\"strawberry\""

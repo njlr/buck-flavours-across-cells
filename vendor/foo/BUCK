@@ -1,0 +1,9 @@
+cxx_library(
+  name = 'foo',
+  srcs = [
+    'foo.cpp',
+  ],
+  visibility = [
+    'PUBLIC',
+  ],
+)
